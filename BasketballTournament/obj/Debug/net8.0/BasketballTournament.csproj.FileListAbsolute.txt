@@ -1,0 +1,14 @@
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\bin\Debug\net8.0\BasketballTournament.exe
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\bin\Debug\net8.0\BasketballTournament.deps.json
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\bin\Debug\net8.0\BasketballTournament.runtimeconfig.json
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\bin\Debug\net8.0\BasketballTournament.dll
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\bin\Debug\net8.0\BasketballTournament.pdb
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\BasketballTournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\BasketballTournament.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\BasketballTournament.AssemblyInfo.cs
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\BasketballTournament.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\BasketballTournament.dll
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\refint\BasketballTournament.dll
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\BasketballTournament.pdb
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\BasketballTournament.genruntimeconfig.cache
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\ref\BasketballTournament.dll
