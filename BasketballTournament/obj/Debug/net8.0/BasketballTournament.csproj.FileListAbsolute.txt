@@ -12,3 +12,4 @@ C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\
 C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\BasketballTournament.pdb
 C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\BasketballTournament.genruntimeconfig.cache
 C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\ref\BasketballTournament.dll
+C:\Users\petar\source\repos\BasketballTournament\BasketballTournament\obj\Debug\net8.0\BasketballTournament.sourcelink.json

@@ -10,9 +10,9 @@ namespace BasketballTournament
         {
             SimulationService simulationService = new SimulationService();
             string currentDirectory = Directory.GetCurrentDirectory();
-            string projectDirectory = Directory.GetParent(currentDirectory).Parent.Parent.FullName;
-            string dataPath = Path.Combine(projectDirectory, "Data", "groups.json");
-            string exibitionsPath = Path.Combine(projectDirectory, "Data", "exibitions.json");
+            string projectDirectory = Directory.GetParent(currentDirectory).FullName;
+            string dataPath = Path.Combine(projectDirectory, "BasketballTournament\\Data", "groups.json");
+            string exibitionsPath = Path.Combine(projectDirectory, "BasketballTournament\\Data", "exibitions.json");
             List<Group> groups = DataLoader.LoadGroups(dataPath,exibitionsPath);
         
             var teams = simulationService.SimulateGroupPhase(groups);
